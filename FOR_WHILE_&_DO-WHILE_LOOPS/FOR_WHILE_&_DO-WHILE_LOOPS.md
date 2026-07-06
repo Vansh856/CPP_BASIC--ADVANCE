@@ -1,0 +1,5 @@
+The Concept: Loops allow you to repeat a block of code multiple times. C++ gives us three different ways to do this
+:
+For Loop: Best used when you know exactly how many times you want the loop to run (like counting from 1 to 10). It has three parts: an initialization (starting point), a condition (when to stop), and an update (how to increment/decrement).
+While Loop: Best used when you don't know exactly how many times the loop should run, but you want it to keep running as long as a specific condition is true.
+Do-While Loop: Very similar to the while loop, but with one massive difference: it checks the condition at the end of the loop instead of the beginning. This means the code inside a do-while loop is guaranteed to run at least once, even if the condition is completely false from the start!

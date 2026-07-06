@@ -1,0 +1,5 @@
+The Concept & Notes (With Code Examples):
+In the last lesson, we learned that every object gets its own separate copy of the variables. But what if you want a variable that is shared among all objects of that class? For example, what if you want to keep track of the total number of students created?
+1. Static Data Members (Static Variables) When you declare a variable as static inside a class, it means only one copy of that variable exists for the entire class, and all objects share that exact same variable. If Object A changes it, Object B will see the new changed value!
+Crucial Rule: A static variable must be declared inside the class, but it must be defined outside the class before main().
+2. Static Methods (Static Functions) A static function is a function that can only access static variables. Furthermore, because it belongs to the whole class rather than a specific object, you don't even need an object to call it! You can call it directly using the class name and the Scope Resolution Operator (::).

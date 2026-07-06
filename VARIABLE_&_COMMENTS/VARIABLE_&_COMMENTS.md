@@ -1,0 +1,3 @@
+The Concept:
+Variables: Think of a variable as a labeled storage box in your computer's memory where you can keep data. Because C++ is a "strictly typed" language, you always have to tell the computer exactly what type of data the box will hold (like whole numbers, text, or decimals) before you can use it.
+Comments: These are notes you leave right inside your code. They are meant entirely for humans (you or other programmers) to read. The g++ compiler will completely ignore them when converting your code to machine language.

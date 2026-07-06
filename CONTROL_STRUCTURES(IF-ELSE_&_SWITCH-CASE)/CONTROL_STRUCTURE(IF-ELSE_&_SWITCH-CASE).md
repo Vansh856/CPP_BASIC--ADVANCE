@@ -1,0 +1,3 @@
+The Concept: Control structures allow you to control the "flow" of your program. The most common type is Selection (decision-making).
+If-Else Statements: You give the computer a condition (like checking if a password is correct, or if a player's score is over 100). If the condition is true, it runs one block of code. If it is false, it skips it and runs the else block instead.
+Switch-Case Statements: This is an alternative to writing a huge chain of if-else statements. If you want to check a single integer or character against many specific possible values (like a menu where 1=Play, 2=Settings, 3=Quit), a switch statement makes your code much cleaner.

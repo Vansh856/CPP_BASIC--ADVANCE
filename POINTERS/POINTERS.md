@@ -1,0 +1,4 @@
+The Concept & Notes (With Code Examples): A pointer is a special type of variable. Instead of holding a normal data value (like the number 10 or the character 'A'), a pointer holds the memory address of another variable. Think of it like storing the exact GPS coordinates of where your data lives in the computer's RAM.
+To work with pointers, we use two special operators:
+The Address-of Operator (&): We actually saw this when we studied reference variables! When placed in front of a variable, it returns the exact memory address where that variable is stored.
+The Dereference Operator (*): When placed in front of a pointer variable, it goes to the memory address stored inside that pointer and grabs the actual data value living there.

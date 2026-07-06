@@ -1,0 +1,4 @@
+The Concept:
+Constants: Sometimes, you have a variable whose value should never change (like the mathematical value of Pi or the number of days in a week). In C++, you can lock a variable's value by using the const keyword. If you try to change it later, the compiler will yell at you and throw an error!
+Manipulators: These are tools used to format your data when you print it. You've already used one: endl (which moves the output to the next line). Another very useful one is setw() (Set Width), which makes your output look like a neat table by specifying how much space a number should take up. To use setw(), you must include a new header file called <iomanip>.
+Operator Precedence: Just like BODMAS or PEMDAS in math, C++ has rules for which operators to calculate first when you have a long equation. For example, multiplication (*) and division (/) happen before addition (+) and subtraction (-).

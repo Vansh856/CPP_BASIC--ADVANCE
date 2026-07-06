@@ -1,0 +1,3 @@
+The Concept & Notes (With Code Examples): Sometimes, you do not want a loop to just run normally from start to finish. You might want to stop it early or skip a specific step based on a condition. That is exactly where break and continue come in!
+1. Break Statement: You actually saw this keyword when we covered switch-case! Inside a loop, the break statement immediately terminates the entire loop. The computer breaks out of the loop completely and moves on to the rest of your program.
+2. Continue Statement: Unlike break, the continue statement does not kill the whole loop. Instead, it just skips the remaining code for that current turn, and immediately jumps to the next cycle of the loop.

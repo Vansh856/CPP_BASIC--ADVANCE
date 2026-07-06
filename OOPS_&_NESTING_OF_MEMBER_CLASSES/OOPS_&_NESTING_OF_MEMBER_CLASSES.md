@@ -1,0 +1,5 @@
+The Concept & Notes (With Code Examples):
+1. Quick OOPs Recap As a quick recap of the last two lessons: Object-Oriented Programming (OOP) allows us to create class templates that bind variables (data) and functions (behaviors) together. We hide sensitive data using the private access modifier and expose safe behaviors using the public access modifier.
+2. Nesting of Member Functions Up until now, to call a function inside a class, you had to create an object in main() and use the dot operator (like obj1.printBalance()).
+But what if a function inside your class needs to use another function inside that exact same class? Nesting of Member Functions simply means that a member function can be called directly by another member function of the same class, without needing an object name or a dot operator!
+This is incredibly useful if you want to break a massive, complicated public function down into smaller, hidden private "helper" functions.

@@ -1,0 +1,4 @@
+The Concept & Notes (With Code Examples):
+1. Array of Objects Imagine you are writing software for a company with 1,000 employees. Writing Employee e1, e2, e3... e1000; would be an absolute nightmare! Just like you can make an array of integers (int numbers;), you can create a single array that holds hundreds or thousands of Objects.
+Code Example:
+2. Passing Objects as Function Arguments Just like you can pass an int or a string into a function, you can pass an entire Object into a function! You can even pass multiple objects into a function so they can interact with each other (like adding the values of two separate objects together)
